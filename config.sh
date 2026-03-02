@@ -1,4 +1,5 @@
 # Minor edit
+# Minor edit
 #!/bin/bash
 
 # Database configuration
