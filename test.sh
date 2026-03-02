@@ -1,4 +1,5 @@
 # Minor edit
+# Minor edit
 #!/bin/bash
 
 # Load the configuration
